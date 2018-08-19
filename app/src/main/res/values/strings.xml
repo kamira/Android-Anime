@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Anime</string>
+    <string name="home">首頁</string>
+    <string name="history">歷年番組</string>
+    <string name="pinned">我的關注</string>
+
+    <string name="drawer_open">Opened</string>
+    <string name="drawer_close">Closed</string>
+
+
+    <!-- Week -->
+    <string name="week_mon">一</string>
+    <string name="week_tue">二</string>
+    <string name="week_wed">三</string>
+    <string name="week_thu">四</string>
+    <string name="week_fri">五</string>
+    <string name="week_sat">六</string>
+    <string name="week_sun">日</string>
+    <string name="week_oth">他</string>
+</resources>
